@@ -1,7 +1,14 @@
 .google-visualization-table-table .google-visualization-table-tr-head .gradient, .google-visualization-table-div-page .google-visualization-table-page-numbers .gradient {
     background: #f5bf42 !important;
+}
+
+google-visualization-table-table .gradient {
     border-top-left-radius: 8px !important;
     border-top-right-radius: 8px !important;
+}
+
+.google-visualization-table-table .gradient, .google-visualization-table-div-page .gradient {
+    font-size: 1.1em !important;
 }
 
 .awt-vis-controls-SearchFilter .awt-searchFilter-input {
