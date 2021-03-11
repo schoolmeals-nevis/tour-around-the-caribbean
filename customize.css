@@ -1,3 +1,17 @@
 .google-visualization-table-table .google-visualization-table-tr-head .gradient, .google-visualization-table-div-page .google-visualization-table-page-numbers .gradient {
     background: #f5bf42 !important;
 }
+
+.google-visualization-table-table .gradient, .google-visualization-table-div-page .gradient {
+    font-size: 1.1em !important;
+}
+
+.awt-vis-controls-SearchFilter .awt-searchFilter-input {
+    font-size: 10px;
+    border-radius: 15px;
+}
+
+.awt-vis-controls-csvFilter .awt-csvFilter {
+    font-size: 10px;
+    border-radius: 15px;
+}
