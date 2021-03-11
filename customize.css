@@ -10,10 +10,10 @@
 
 .awt-vis-controls-SearchFilter .awt-searchFilter-input {
     font-size: 10px !important;
-    border-radius: 15px !important;
+    border-radius: 10px !important;
 }
 
-.awt-vis-controls-csvFilter .awt-csvFilter-input {
+.awt-vis-controls-csvFilter .awt-csvFilter-input .awt-csvFilter-button{
     font-size: 10px !important;
-    border-radius: 15px !important;
+    border-radius: 10px !important;
 }
