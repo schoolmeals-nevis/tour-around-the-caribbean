@@ -3,6 +3,10 @@
     font-size: 13px !important;
 }
 
+.google-visualization-table-table{
+    font-fanily: adobe hebrew !important
+}
+
 .google-visualization-table-tr-head th:nth-child(1) {
     border-top-left-radius: 8px !important;
 }
