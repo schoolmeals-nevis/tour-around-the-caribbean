@@ -11,7 +11,10 @@
     border-radius: 15px !important;
 }
 
+.awt-vis-controls-csvFilter {
+    border-radius: 15px !important;
+}
+
 .awt-vis-controls-csvFilter .awt-csvFilter {
     font-size: 10px !important;
-    border-radius: 15px !important;
 }
